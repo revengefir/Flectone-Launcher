@@ -1,0 +1,10 @@
+[19:24:38] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 351 milliseconds
+[19:24:42] [main/WARN]: Failed to get system info for GL Caps
+java.lang.IllegalStateException: Rendersystem called from wrong thread
+	at com.mojang.blaze3d.systems.RenderSystem.constructThreadException(SourceFile:140) ~[1.21.1.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.assertOnRenderThread(SourceFile:135) ~[1.21.1.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.getCapsString(SourceFile:527) ~[1.21.1.jar:?]
+	at ac.a(SourceFile:70) [1.21.1.jar:?]
+	at fgo.a(SourceFile:2547) [1.21.1.jar:?]
+	at fgo.a(SourceFile:2517) [1.21.1.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:210) [1.21.1.jar:?]

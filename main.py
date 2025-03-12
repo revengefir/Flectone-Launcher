@@ -14,10 +14,10 @@ def printProgressBar(iteration,total, prefix=" ", suffix="", decimals=1, length=
     if iteration == total:
         print()
 
-def maximum(max_value, value):
+def maximum(max_value, value):    
     max_value[0] = value
 
-version = input("Выберите версию: ")
+version = input("Choose a version: ")
 username = input("username: ")
 print("=======================================================================================")
 

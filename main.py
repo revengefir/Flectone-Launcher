@@ -4,7 +4,7 @@ import subprocess
 minecraft_directory = minecraft_launcher_lib.utils.get_minecraft_directory()
                                                             
 print("Flectone Launcher 0.1 Alpha")
-print("by TopVovanplay")
+print("by RevengeFir")
 
 def printProgressBar(iteration,total, prefix=" ", suffix="", decimals=1, length=100, fill="█", printEnd="\r"):
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))

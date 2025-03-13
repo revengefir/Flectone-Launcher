@@ -48,7 +48,7 @@ class LaunchThread(QtCore.QThread):
             self.username = generate_username()[0]
 
         options = {
-            'username': username,
+            'username': self.username,
             'uuid':str(uuid1()),
             'token': ''
         }

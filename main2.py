@@ -44,8 +44,8 @@ class LaunchThread(QtCore.QThread):
 
         minecraft_launcher_lib.install.install_minecraft_version(versionid=self.version_id, minecraft_directory=minecraft_directory, callback={"setStatus": self.update_progress_label, "setProgress": self.update_progress, 'setMax': self.update_progress_max})
         
-        if username == "":
-            username = generate_username()[0]
+        if self.username == "":
+            self.username = generate_username()[0]
         username = "flectone"
         options = {
             'username': username,
@@ -84,9 +84,9 @@ class Ui_MainWindow(object):
         self.verticalLayout.addWidget(self.version_select)
         spacerItem1 = QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Minimum)
         self.verticalLayout.addItem(spacerItem1)
-        self.progress = QtWidgets.QProgressDialog(self.centralwidget)
+        self.progress = QtWidgets.QProgressBar(self.centralwidget)
         self.progress.setProperty("value", 24)
-        #self.progress.setLabelText(False)
+        self.progress.setTextVisible(False)
         self.progress.setObjectName("progress")
         self.progress.setVisible(False)
         self.verticalLayout.addWidget(self.progress)
@@ -107,13 +107,12 @@ class Ui_MainWindow(object):
 
     def state_update(self, value):
         self.start_button.setDisabled(value)
-        self.start_progress.setDisable(not value)
+        #self.update_progress.setTextVisible(not value)
     def update_progress(self, progress, max_progress, label):
-        self.start_progress.setValue(progress)
-        self.start_progress.setMaximum(max_progress)
-        self.start_progress.setLabelText(label)
+        self.update_progress.setValue(progress)
+        self.update_progress.setMaximum(max_progress)
     def launch_game(self):
-        self.launch_thread.launch_setup_signal.emit(self.version_select.currentText(), self.username)
+        self.launch_thread.launch_setup_signal.emit(self.version_select.currentText(), self.username.text())
         self.launch_thread.start()
 
     def retranslateUi(self, MainWindow):

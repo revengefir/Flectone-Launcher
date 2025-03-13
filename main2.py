@@ -46,7 +46,7 @@ class LaunchThread(QtCore.QThread):
         
         if self.username == "":
             self.username = generate_username()[0]
-        username = "flectone"
+
         options = {
             'username': username,
             'uuid':str(uuid1()),
@@ -57,7 +57,7 @@ class LaunchThread(QtCore.QThread):
         self.state_update_signal.emit(False)
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
-        MainWindow.setObjectName("Flectone Launcher A.0.4")
+        MainWindow.setObjectName("Flectone Launcher A.0.4.1")
         MainWindow.resize(755, 716)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")

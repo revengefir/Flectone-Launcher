@@ -1,41 +1,20 @@
 import minecraft_launcher_lib
 import subprocess
 
-minecraft_directory = minecraft_launcher_lib.utils.get_minecraft_directory().replace("minecraft","flectone")
-                                                            
-print("Flectone Launcher 0.1 Alpha")
-print("by RevengeFir")
+print("Welcome to Flectone Launcher A.0.3")
 
-def printProgressBar(iteration,total, prefix=" ", suffix="", decimals=1, length=100, fill="█", printEnd="\r"):
-    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
-    filledLength = int(length * iteration // total)
-    bar = fill * filledLength + '-' * (length - filledLength)
-    print('\r%s |%s| %s%% %s' % (prefix, bar, percent, suffix), end=printEnd)
-    if iteration == total:
-        print()
+minecraft_directory = minecraft_launcher_lib.utils.get_minecraft_directory().replace("minecraft", "flectone")
 
-def maximum(max_value, value):    
-    max_value[0] = value
+version = input("Enter minecraft version: ")
+username = input("Enter username: ")
 
-version = input("Choose a version: ")
-username = input("username: ")
-print("=======================================================================================")
-
-max_value = [0]
-callback = {
-    "setStatus": lambda text: print(text, end="r"),
-    "setProgress": lambda value: printProgressBar(value, max_value[0]),
-    "setMax": lambda value: maximum(max_value, value)
-}
-
-minecraft_launcher_lib.install.install_minecraft_version(versionid=version, minecraft_directory=minecraft_directory, callback=callback)
+# Installing minecraft.
+minecraft_launcher_lib.install.install_minecraft_version(versionid=version, minecraft_directory=minecraft_directory)
 
 options = {
-    "username": username,
-    'uuid': '',
+    'username': username,
+    'uuid':'',
     'token': ''
 }
 
-subprocess.call(minecraft_launcher_lib.command.get_minecraft_command(version=version, minecraft_directory=minecraft_directory, options=options))
-                                                                
-                                                                
+subprocess.call(minecraft_launcher_lib.command.get_minecraft_command(version=version, minecraft_directory=minecraft_directory,options=options))

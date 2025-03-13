@@ -1,10 +1,232 @@
-[19:24:38] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 351 milliseconds
-[19:24:42] [main/WARN]: Failed to get system info for GL Caps
-java.lang.IllegalStateException: Rendersystem called from wrong thread
-	at com.mojang.blaze3d.systems.RenderSystem.constructThreadException(SourceFile:140) ~[1.21.1.jar:?]
-	at com.mojang.blaze3d.systems.RenderSystem.assertOnRenderThread(SourceFile:135) ~[1.21.1.jar:?]
-	at com.mojang.blaze3d.systems.RenderSystem.getCapsString(SourceFile:527) ~[1.21.1.jar:?]
-	at ac.a(SourceFile:70) [1.21.1.jar:?]
-	at fgo.a(SourceFile:2547) [1.21.1.jar:?]
-	at fgo.a(SourceFile:2517) [1.21.1.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:210) [1.21.1.jar:?]
+[13:11:36] [Client thread/INFO]: Setting user: RevengeFir
+[13:11:36] [Client thread/INFO]: (Session ID is token::)
+[13:11:36] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:11:37] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:11:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:11:37] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:11:37] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:11:37] [Thread-5/INFO]: OpenAL initialized.
+[13:11:38] [Sound Library Loader/INFO]: Sound engine started
+[13:11:38] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:11:59] [Client thread/INFO]: Connecting to dexland.su, 25565
+[13:12:00] [Client thread/INFO]: [CHAT] 
+
+
+
+? ????????????????? › /reg [??????]
+
+? ??????? ??????? ?????? (!)
+? ??????????? ???????? ???? ?????? (!)
+
+
+[13:12:02] [Client thread/INFO]: [CHAT] 
+
+
+
+? ????????????????? › /reg [??????]
+
+? ??????? ??????? ?????? (!)
+? ??????????? ???????? ???? ?????? (!)
+
+
+[13:12:08] [Client thread/INFO]: [CHAT] ? ?? ??????? ??????????????????
+[13:12:09] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:10] [Client thread/INFO]: [CHAT] 
+ ? ???? ??? ??????? ??????: www.dexland.org 
+
+[13:12:11] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:13] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:20] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:24] [Client thread/INFO]: [CHAT]                                                                              
+[13:12:24] [Client thread/INFO]: [CHAT] 
+[13:12:24] [Client thread/INFO]: [CHAT]            ? ????? ?????????? ?? ?????? DexLand
+[13:12:24] [Client thread/INFO]: [CHAT]               ? ??????? ???? ?????? ????????: /air
+[13:12:24] [Client thread/INFO]: [CHAT]                 ? ????? ???????? ?? ????? www.dexland.ru
+[13:12:24] [Client thread/INFO]: [CHAT]                   ? ?????? ???? ?????? 90% ??? ?????? 100%
+[13:12:24] [Client thread/INFO]: [CHAT]                     ? ????? ???????? ? ??????????? ????? ?????
+[13:12:24] [Client thread/INFO]: [CHAT] 
+[13:12:24] [Client thread/INFO]: [CHAT]                                                                              
+[13:12:24] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:24] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:24] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:24] [Chunk Batcher 1/WARN]: Biome ID is out of bounds: 151720, defaulting to 0 (Ocean)
+[13:12:25] [Client thread/INFO]: [CHAT] [?] Peromant [????????] ~~My_death ????? ? ????
+[13:12:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:29] [Client thread/INFO]: [CHAT] › ????? [????????] Dap ????? ?? ??????.
+[13:12:30] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:30] [Client thread/INFO]: [CHAT] [?] [?????] Dasha_Top228  ? ?
+[13:12:30] [Client thread/INFO]: [CHAT] ??????? ? ????? lomalmo ?????? ?? ?????????? ? ????????????? ?????.
+[13:12:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:34] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:35] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:35] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:35] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:36] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:37] [Client thread/INFO]: [CHAT] › ????? [?????????] lomalmo ????? ?? ??????.
+[13:12:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:39] [Client thread/INFO]: [CHAT] [?] reGeneration [??.?????] ~~LumenEscence_  ? ?????? ???????228
+[13:12:41] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:41] [Client thread/INFO]: [CHAT] [*] Phantom65 ??????.
+[13:12:42] [Client thread/INFO]: [CHAT] [*] Phantom65 ????????.
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/INFO]: [CHAT] [*] ?? ????? ? ????? PvP! ?? ???????? ?? ????, ????? ?????? ????????!
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:42] [Client thread/INFO]: [CHAT] › ????? [????????] MikMik ????? ?? ??????.
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:43] [Client thread/INFO]: [CHAT] [*] ?? ?????????? ?? ??????, ??? ?????? ???????! ?????? /rtp ????? ?????? ????????
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:44] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/INFO]: [CHAT] [*] ?? ?????????? ?? ??????, ??? ?????? ???????! ?????? /rtp ????? ?????? ????????
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:12:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:47] [Client thread/INFO]: [CHAT] [?] [?????] Dasha_Top228  ? ???????
+[13:12:48] [Client thread/INFO]: [CHAT] | ????? anton2 ??????? ???? ?? ????? PvP ? ??? ????
+[13:12:48] [Client thread/INFO]: [CHAT] [*] ??? ???? ????? ? ????? dasaykom.
+[13:12:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:48] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:12:49] [Client thread/INFO]: [CHAT] [?] ClovisLuxury [????????] FoxF0n1k_ ? ? ????? ????? : [??????????? ????] ??????????? ?? /warp gryz. ??????? ???? : ???????????. ?? ???????? : 6 ?????
+[13:12:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:12:52] [Client thread/INFO]: [CHAT] [?] [?????] OKROSHKIN_  ? t
+[13:12:52] [Client thread/INFO]: [CHAT] › ????? [????????] MikMik ????? ?? ??????.
+[13:12:58] [Client thread/INFO]: [CHAT] [*] ?? ?????????? ?? ??????, ??? ?????? ???????! ?????? /rtp ????? ?????? ????????
+[13:12:59] [Client thread/INFO]: [CHAT] [*] ?? ?????????? ?? ??????, ??? ?????? ???????! ?????? /rtp ????? ?????? ????????
+[13:13:00] [Client thread/INFO]: [CHAT] [*] ?? ?????????? ?? ??????, ??? ?????? ???????! ?????? /rtp ????? ?????? ????????
+[13:13:00] [Client thread/INFO]: [CHAT] › ????? [????????] WasabishkaCocc ????? ?? ??????.
+[13:13:01] [Client thread/INFO]: [CHAT] [*] ?? ?????????? ?? ??????, ??? ?????? ???????! ?????? /rtp ????? ?????? ????????
+[13:13:02] [Client thread/INFO]: [CHAT] [?] [?????] Egorka_942  ? ??? ??????? ??????? ? ??? ??
+[13:13:02] [Client thread/INFO]: [CHAT] [?] [???????] KristinaGans  ? ??? ?????, ??????, ?????????, ?? ?? ???
+[13:13:04] [pool-2-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[13:13:07] [Client thread/INFO]: Stopping!
+[13:13:07] [Client thread/INFO]: SoundSystem shutting down...
+[13:13:07] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
